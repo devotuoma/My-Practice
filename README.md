@@ -1,2 +1,2 @@
-# My-Practice
+# My  Practice
 Data science journey
